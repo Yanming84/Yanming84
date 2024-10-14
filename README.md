@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yan Ming</h1>
 <h3 align="center">Aspiring Data Scientist (Certified Data Analyst, AI and Cloud Engineer)</h3>
 
-- 🔭 I’m currently working on **AZ-104 certification**
+- 🔭 I’m currently working on **Microsoft Azure Fundamentals AZ900**
 
 - 🌱 I’m currently learning **DevOps, Terraform, Ansible, Docker**
 
-- 👯 I’m looking to collaborate on **Data Science, AI and Cloud app projects**
+- 👯 I’m looking to collaborate on **Data Science and AI projects**
 
 - 👨‍💻 My sample dashboards are available at [https://public.tableau.com/app/profile/ng.yan.ming/vizzes](https://public.tableau.com/app/profile/ng.yan.ming/vizzes)
 
