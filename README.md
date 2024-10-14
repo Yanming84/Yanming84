@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yan Ming</h1>
-<h3 align="center">Aspiring Data Scientist (Certified Data Analyst and Cloud Engineer)</h3>
+<h3 align="center">Aspiring Data Scientist (Certified Data Analyst, AI and Cloud Engineer)</h3>
 
 - 🔭 I’m currently working on **AZ-104 certification**
 
