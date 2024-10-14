@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps, Terraform, Ansible, Docker**
 
-- 👯 I’m looking to collaborate on **Data Science, AI and Cloud projects**
+- 👯 I’m looking to collaborate on **Data Science, AI and Cloud app projects**
 
 - 👨‍💻 My sample dashboards are available at [https://public.tableau.com/app/profile/ng.yan.ming/vizzes](https://public.tableau.com/app/profile/ng.yan.ming/vizzes)
 
