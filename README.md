@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yan Ming</h1>
 
-- 🔭 I’m currently working on **Microsoft Azure Fundamentals AZ900**
+- 🔭 I’m currently working on **Microsoft Azure Fundamentals AZ-900**
 
 - 🌱 I’m currently learning **Cloud Support and DevOp** 
 
