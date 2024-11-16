@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yan Ming</h1>
 
-- 🔭 I’m currently working on **AWS Cloud Pracitioner Certification and ISC2 Cybersecurity**
+- 🔭 I’m currently working on **AWS Cloud Pracitioner Certification and ISC2 Cybersecurity by Dec 2024**
 
 - 🌱 I had completed my **AI-900, AZ-900, Specialist Diploma in Business Analytics from Republic Polytechic** 
 
