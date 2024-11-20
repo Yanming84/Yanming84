@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yan Ming</h1>
 
-- 🔭 I’m currently working on **AWS Cloud Pracitioner Certification and ISC2 Cybersecurity by Dec 2024**
+- 👯 My career goal is to be a **Data Scientist**
 
 - 🌱 I had completed my **AI-900, AZ-900, Specialist Diploma in Business Analytics from Republic Polytechic** 
 
-- 👯 My goal is to become a **Data Scientist**
+- 🔭 I’m currently working on **AWS Cloud Pracitioner Certification and ISC2 Cybersecurity**
 
-- 👨‍💻 My sample dashboards are available at [https://public.tableau.com/app/profile/ng.yan.ming/vizzes](https://public.tableau.com/app/profile/ng.yan.ming/vizzes)
+- 👨‍💻 My sample dashboards are available at [https://tinyurl.com/YMshowcase](https://tinyurl.com/YMshowcase)
 
 - 📫 How to reach me **yanming84@gmail.com**
 
