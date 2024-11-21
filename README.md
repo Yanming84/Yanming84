@@ -4,7 +4,7 @@
 
 - 🌱 I had completed my **AI-900, AZ-900, Specialist Diploma in Business Analytics from Republic Polytechic** 
 
-- 🔭 I’m currently working on **AWS Cloud Pracitioner Certification and ISC2 Cybersecurity**
+- 🔭 I’m currently working on **AZ-104 and ISC2 Cybersecurity**
 
 - 👨‍💻 My sample dashboards are available at [https://tinyurl.com/YMshowcase](https://tinyurl.com/YMshowcase)
 
